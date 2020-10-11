@@ -1,0 +1,13 @@
+C:\Users\Мария\source\repos\тетраэдр\тетраэдр\obj\Debug\netcoreapp3.1\тетраэдр.csprojAssemblyReference.cache
+C:\Users\Мария\source\repos\тетраэдр\тетраэдр\obj\Debug\netcoreapp3.1\тетраэдр.AssemblyInfoInputs.cache
+C:\Users\Мария\source\repos\тетраэдр\тетраэдр\obj\Debug\netcoreapp3.1\тетраэдр.AssemblyInfo.cs
+C:\Users\Мария\source\repos\тетраэдр\тетраэдр\obj\Debug\netcoreapp3.1\тетраэдр.csproj.CoreCompileInputs.cache
+C:\Users\Мария\source\repos\тетраэдр\тетраэдр\bin\Debug\netcoreapp3.1\тетраэдр.exe
+C:\Users\Мария\source\repos\тетраэдр\тетраэдр\bin\Debug\netcoreapp3.1\тетраэдр.deps.json
+C:\Users\Мария\source\repos\тетраэдр\тетраэдр\bin\Debug\netcoreapp3.1\тетраэдр.runtimeconfig.json
+C:\Users\Мария\source\repos\тетраэдр\тетраэдр\bin\Debug\netcoreapp3.1\тетраэдр.runtimeconfig.dev.json
+C:\Users\Мария\source\repos\тетраэдр\тетраэдр\bin\Debug\netcoreapp3.1\тетраэдр.dll
+C:\Users\Мария\source\repos\тетраэдр\тетраэдр\bin\Debug\netcoreapp3.1\тетраэдр.pdb
+C:\Users\Мария\source\repos\тетраэдр\тетраэдр\obj\Debug\netcoreapp3.1\тетраэдр.dll
+C:\Users\Мария\source\repos\тетраэдр\тетраэдр\obj\Debug\netcoreapp3.1\тетраэдр.pdb
+C:\Users\Мария\source\repos\тетраэдр\тетраэдр\obj\Debug\netcoreapp3.1\тетраэдр.genruntimeconfig.cache
