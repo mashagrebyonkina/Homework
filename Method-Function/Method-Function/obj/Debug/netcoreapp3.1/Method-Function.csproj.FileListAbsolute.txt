@@ -1,0 +1,12 @@
+C:\Users\Мария\source\repos\Method-Function\Method-Function\bin\Debug\netcoreapp3.1\Method-Function.exe
+C:\Users\Мария\source\repos\Method-Function\Method-Function\bin\Debug\netcoreapp3.1\Method-Function.deps.json
+C:\Users\Мария\source\repos\Method-Function\Method-Function\bin\Debug\netcoreapp3.1\Method-Function.runtimeconfig.json
+C:\Users\Мария\source\repos\Method-Function\Method-Function\bin\Debug\netcoreapp3.1\Method-Function.runtimeconfig.dev.json
+C:\Users\Мария\source\repos\Method-Function\Method-Function\bin\Debug\netcoreapp3.1\Method-Function.dll
+C:\Users\Мария\source\repos\Method-Function\Method-Function\bin\Debug\netcoreapp3.1\Method-Function.pdb
+C:\Users\Мария\source\repos\Method-Function\Method-Function\obj\Debug\netcoreapp3.1\Method-Function.AssemblyInfoInputs.cache
+C:\Users\Мария\source\repos\Method-Function\Method-Function\obj\Debug\netcoreapp3.1\Method-Function.AssemblyInfo.cs
+C:\Users\Мария\source\repos\Method-Function\Method-Function\obj\Debug\netcoreapp3.1\Method-Function.csproj.CoreCompileInputs.cache
+C:\Users\Мария\source\repos\Method-Function\Method-Function\obj\Debug\netcoreapp3.1\Method-Function.dll
+C:\Users\Мария\source\repos\Method-Function\Method-Function\obj\Debug\netcoreapp3.1\Method-Function.pdb
+C:\Users\Мария\source\repos\Method-Function\Method-Function\obj\Debug\netcoreapp3.1\Method-Function.genruntimeconfig.cache
