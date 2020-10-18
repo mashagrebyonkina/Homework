@@ -1,0 +1,13 @@
+C:\Users\Мария\source\repos\MathFunction\MathFunction\bin\Debug\netcoreapp3.1\MathFunction.exe
+C:\Users\Мария\source\repos\MathFunction\MathFunction\bin\Debug\netcoreapp3.1\MathFunction.deps.json
+C:\Users\Мария\source\repos\MathFunction\MathFunction\bin\Debug\netcoreapp3.1\MathFunction.runtimeconfig.json
+C:\Users\Мария\source\repos\MathFunction\MathFunction\bin\Debug\netcoreapp3.1\MathFunction.runtimeconfig.dev.json
+C:\Users\Мария\source\repos\MathFunction\MathFunction\bin\Debug\netcoreapp3.1\MathFunction.dll
+C:\Users\Мария\source\repos\MathFunction\MathFunction\bin\Debug\netcoreapp3.1\MathFunction.pdb
+C:\Users\Мария\source\repos\MathFunction\MathFunction\obj\Debug\netcoreapp3.1\MathFunction.csprojAssemblyReference.cache
+C:\Users\Мария\source\repos\MathFunction\MathFunction\obj\Debug\netcoreapp3.1\MathFunction.AssemblyInfoInputs.cache
+C:\Users\Мария\source\repos\MathFunction\MathFunction\obj\Debug\netcoreapp3.1\MathFunction.AssemblyInfo.cs
+C:\Users\Мария\source\repos\MathFunction\MathFunction\obj\Debug\netcoreapp3.1\MathFunction.csproj.CoreCompileInputs.cache
+C:\Users\Мария\source\repos\MathFunction\MathFunction\obj\Debug\netcoreapp3.1\MathFunction.dll
+C:\Users\Мария\source\repos\MathFunction\MathFunction\obj\Debug\netcoreapp3.1\MathFunction.pdb
+C:\Users\Мария\source\repos\MathFunction\MathFunction\obj\Debug\netcoreapp3.1\MathFunction.genruntimeconfig.cache
