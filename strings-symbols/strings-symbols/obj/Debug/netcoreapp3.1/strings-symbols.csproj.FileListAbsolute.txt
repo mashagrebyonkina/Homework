@@ -1,0 +1,13 @@
+C:\Users\Мария\source\repos\strings-symbols\strings-symbols\obj\Debug\netcoreapp3.1\strings-symbols.csprojAssemblyReference.cache
+C:\Users\Мария\source\repos\strings-symbols\strings-symbols\obj\Debug\netcoreapp3.1\strings-symbols.AssemblyInfoInputs.cache
+C:\Users\Мария\source\repos\strings-symbols\strings-symbols\obj\Debug\netcoreapp3.1\strings-symbols.AssemblyInfo.cs
+C:\Users\Мария\source\repos\strings-symbols\strings-symbols\obj\Debug\netcoreapp3.1\strings-symbols.csproj.CoreCompileInputs.cache
+C:\Users\Мария\source\repos\strings-symbols\strings-symbols\bin\Debug\netcoreapp3.1\strings-symbols.exe
+C:\Users\Мария\source\repos\strings-symbols\strings-symbols\bin\Debug\netcoreapp3.1\strings-symbols.deps.json
+C:\Users\Мария\source\repos\strings-symbols\strings-symbols\bin\Debug\netcoreapp3.1\strings-symbols.runtimeconfig.json
+C:\Users\Мария\source\repos\strings-symbols\strings-symbols\bin\Debug\netcoreapp3.1\strings-symbols.runtimeconfig.dev.json
+C:\Users\Мария\source\repos\strings-symbols\strings-symbols\bin\Debug\netcoreapp3.1\strings-symbols.dll
+C:\Users\Мария\source\repos\strings-symbols\strings-symbols\bin\Debug\netcoreapp3.1\strings-symbols.pdb
+C:\Users\Мария\source\repos\strings-symbols\strings-symbols\obj\Debug\netcoreapp3.1\strings-symbols.dll
+C:\Users\Мария\source\repos\strings-symbols\strings-symbols\obj\Debug\netcoreapp3.1\strings-symbols.pdb
+C:\Users\Мария\source\repos\strings-symbols\strings-symbols\obj\Debug\netcoreapp3.1\strings-symbols.genruntimeconfig.cache
