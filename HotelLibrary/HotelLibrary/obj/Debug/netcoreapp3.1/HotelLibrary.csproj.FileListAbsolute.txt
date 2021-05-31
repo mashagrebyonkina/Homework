@@ -1,0 +1,9 @@
+C:\Users\r3s0l\source\repos\HotelLibrary\HotelLibrary\bin\Debug\netcoreapp3.1\HotelLibrary.deps.json
+C:\Users\r3s0l\source\repos\HotelLibrary\HotelLibrary\bin\Debug\netcoreapp3.1\HotelLibrary.dll
+C:\Users\r3s0l\source\repos\HotelLibrary\HotelLibrary\bin\Debug\netcoreapp3.1\HotelLibrary.pdb
+C:\Users\r3s0l\source\repos\HotelLibrary\HotelLibrary\obj\Debug\netcoreapp3.1\HotelLibrary.csprojAssemblyReference.cache
+C:\Users\r3s0l\source\repos\HotelLibrary\HotelLibrary\obj\Debug\netcoreapp3.1\HotelLibrary.AssemblyInfoInputs.cache
+C:\Users\r3s0l\source\repos\HotelLibrary\HotelLibrary\obj\Debug\netcoreapp3.1\HotelLibrary.AssemblyInfo.cs
+C:\Users\r3s0l\source\repos\HotelLibrary\HotelLibrary\obj\Debug\netcoreapp3.1\HotelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\r3s0l\source\repos\HotelLibrary\HotelLibrary\obj\Debug\netcoreapp3.1\HotelLibrary.dll
+C:\Users\r3s0l\source\repos\HotelLibrary\HotelLibrary\obj\Debug\netcoreapp3.1\HotelLibrary.pdb
