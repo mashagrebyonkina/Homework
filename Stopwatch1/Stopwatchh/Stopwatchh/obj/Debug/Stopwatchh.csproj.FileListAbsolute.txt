@@ -1,0 +1,10 @@
+C:\Users\Мария\Desktop\Stopwatch1\Stopwatchh\Stopwatchh\bin\Debug\Stopwatchh.exe.config
+C:\Users\Мария\Desktop\Stopwatch1\Stopwatchh\Stopwatchh\bin\Debug\Stopwatchh.exe
+C:\Users\Мария\Desktop\Stopwatch1\Stopwatchh\Stopwatchh\bin\Debug\Stopwatchh.pdb
+C:\Users\Мария\Desktop\Stopwatch1\Stopwatchh\Stopwatchh\obj\Debug\Stopwatchh.csprojAssemblyReference.cache
+C:\Users\Мария\Desktop\Stopwatch1\Stopwatchh\Stopwatchh\obj\Debug\Stopwatchh.Properties.Resources.resources
+C:\Users\Мария\Desktop\Stopwatch1\Stopwatchh\Stopwatchh\obj\Debug\Stopwatchh.csproj.GenerateResource.cache
+C:\Users\Мария\Desktop\Stopwatch1\Stopwatchh\Stopwatchh\obj\Debug\Stopwatchh.csproj.CoreCompileInputs.cache
+C:\Users\Мария\Desktop\Stopwatch1\Stopwatchh\Stopwatchh\obj\Debug\Stopwatchh.exe
+C:\Users\Мария\Desktop\Stopwatch1\Stopwatchh\Stopwatchh\obj\Debug\Stopwatchh.pdb
+C:\Users\Мария\Desktop\Stopwatch1\Stopwatchh\Stopwatchh\obj\Debug\Stopwatchh.Form1.resources
